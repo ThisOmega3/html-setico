@@ -5,4 +5,11 @@ body {
   padding: 10px;
   background-color:#282C34
   min-height: 100vh
+
+}
+header, nav, footer {
+    background-color:#FFA500;
+    padding: 20px
+    text-aling: center;
+    color: white;
 }
